@@ -1,2 +1,3 @@
-# atom_shell_aliases
+# Atom Shell Aliases
+
 Set of support scripts for Atom Editor
