@@ -15,5 +15,5 @@ atom_update() {
       $HOME/.atom/recovery \
       $HOME/.atom/storage
   fi
-  apm update
+  apm upgrade --confirm false
 }
