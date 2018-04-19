@@ -14,6 +14,7 @@ atom_update() {
       $HOME/.atom/compile-cache \
       $HOME/.atom/recovery \
       $HOME/.atom/storage
+    open https://github.com/atom/atom/releases
   fi
   apm upgrade --confirm false
 }
